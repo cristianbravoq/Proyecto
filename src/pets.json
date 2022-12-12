@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Citroen 2",
+    "picture": "images/c2.webp",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Citroen 3",
+    "picture": "images/c2.webp",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Citroen x",
+    "picture": "images/c2.webp",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Citroen 2",
+    "picture": "images/c2.webp",
+    "age": 2,
+    "breed": "Boxer",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Citroen 24",
+    "picture": "images/c2.webp",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Citroen 2xc",
+    "picture": "images/c2.webp",
+    "age": 3,
+    "breed": "French Bulldog",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Citroen 21",
+    "picture": "images/c2.webp",
+    "age": 3,
+    "breed": "Golden Retriever",
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "Citroen 2",
+    "picture": "images/c2.webp",
+    "age": 3,
+    "breed": "Golden Retriever",
+    "location": "Jacksonwald, Palau"
+  },
+  {
+    "id": 8,
+    "name": "Citroen 25",
+    "picture": "images/c2.webp",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "id": 9,
+    "name": "Citroen 2",
+    "picture": "images/c2.webp",
+    "age": 3,
+    "breed": "Boxer",
+    "location": "Matheny, Utah"
+  },
+  {
+    "id": 10,
+    "name": "Citroen 2",
+    "picture": "images/c2.webp",
+    "age": 2,
+    "breed": "Boxer",
+    "location": "Tyhee, Indiana"
+  },
+  {
+    "id": 11,
+    "name": "Citroen 2",
+    "picture": "images/c2.webp",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Windsor, Montana"
+  },
+  {
+    "id": 12,
+    "name": "Citroen 2",
+    "picture": "images/c2.webp",
+    "age": 3,
+    "breed": "French Bulldog",
+    "location": "Kingstowne, Nevada"
+  },
+  {
+    "id": 13,
+    "name": "Citroen 2",
+    "picture": "images/c2.webp",
+    "age": 4,
+    "breed": "Golden Retriever",
+    "location": "Sultana, Massachusetts"
+  },
+  {
+    "id": 14,
+    "name": "Citroen 23",
+    "picture": "images/c2.webp",
+    "age": 2,
+    "breed": "Golden Retriever",
+    "location": "Broadlands, Oregon"
+  },
+  {
+    "id": 15,
+    "name": "Citroen gt",
+    "picture": "images/c2.webp",
+    "age": 2,
+    "breed": "Golden Retriever",
+    "location": "Dawn, Wisconsin"
+  }
+]
